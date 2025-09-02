@@ -1,6 +1,4 @@
-# Irelnd Recruitment Agencies Dashboard Tool
-
-Dashboard for exploring and filtering recruitment agencies across Ireland. Built with vanilla HTML, CSS, and JavaScript for easy deployment and usage.
+# Recruitment Agencies Dashboard Tool
 
 ## Features
 
@@ -54,5 +52,6 @@ Works on all modern browsers:
 Feel free to submit issues and enhancement requests!
 
 ## License
+
 
 This project is open source and available under the [MIT License](LICENSE).
